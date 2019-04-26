@@ -1,0 +1,470 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1256px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u42_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1532px;
+  height:819px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u42 {
+  border-width:0px;
+  position:absolute;
+  left:-276px;
+  top:-97px;
+  width:1532px;
+  height:819px;
+}
+#u42_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u43_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:306px;
+  height:722px;
+  background:inherit;
+  background-color:rgba(91, 90, 106, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u43 {
+  border-width:0px;
+  position:absolute;
+  left:950px;
+  top:0px;
+  width:306px;
+  height:722px;
+}
+#u43_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u44 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u45_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:2px;
+  height:35px;
+}
+#u45 {
+  border-width:0px;
+  position:absolute;
+  left:1023px;
+  top:269px;
+  width:1px;
+  height:34px;
+}
+#u45_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u46_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:5px;
+  height:35px;
+}
+#u46 {
+  border-width:0px;
+  position:absolute;
+  left:1022px;
+  top:269px;
+  width:4px;
+  height:34px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
+}
+#u46_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u47_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:34px;
+  height:18px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'南宋书局体 常规', '南宋书局体';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u47 {
+  border-width:0px;
+  position:absolute;
+  left:1182px;
+  top:51px;
+  width:34px;
+  height:18px;
+  font-family:'南宋书局体 常规', '南宋书局体';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u47_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:34px;
+  white-space:nowrap;
+}
+#u48_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:2px;
+  height:33px;
+}
+#u48 {
+  border-width:0px;
+  position:absolute;
+  left:1198px;
+  top:62px;
+  width:1px;
+  height:32px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
+}
+#u48_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u49_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:59px;
+  height:18px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'南宋书局体 常规', '南宋书局体';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u49 {
+  border-width:0px;
+  position:absolute;
+  left:999px;
+  top:340px;
+  width:59px;
+  height:18px;
+  font-family:'南宋书局体 常规', '南宋书局体';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u49_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:59px;
+  white-space:nowrap;
+}
+#u50_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:59px;
+  height:18px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'南宋书局体 常规', '南宋书局体';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u50 {
+  border-width:0px;
+  position:absolute;
+  left:999px;
+  top:403px;
+  width:59px;
+  height:18px;
+  font-family:'南宋书局体 常规', '南宋书局体';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u50_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:59px;
+  white-space:nowrap;
+}
+#u51_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:59px;
+  height:18px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'南宋书局体 常规', '南宋书局体';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u51 {
+  border-width:0px;
+  position:absolute;
+  left:999px;
+  top:466px;
+  width:59px;
+  height:18px;
+  font-family:'南宋书局体 常规', '南宋书局体';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u51_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:59px;
+  white-space:nowrap;
+}
+#u52_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:59px;
+  height:18px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'南宋书局体 常规', '南宋书局体';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u52 {
+  border-width:0px;
+  position:absolute;
+  left:999px;
+  top:528px;
+  width:59px;
+  height:18px;
+  font-family:'南宋书局体 常规', '南宋书局体';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u52_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:59px;
+  white-space:nowrap;
+}
+#u53_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:59px;
+  height:18px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'南宋书局体 常规', '南宋书局体';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u53 {
+  border-width:0px;
+  position:absolute;
+  left:999px;
+  top:591px;
+  width:59px;
+  height:18px;
+  font-family:'南宋书局体 常规', '南宋书局体';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u53_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:59px;
+  white-space:nowrap;
+}
+#u54_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:59px;
+  height:18px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'南宋书局体 常规', '南宋书局体';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u54 {
+  border-width:0px;
+  position:absolute;
+  left:999px;
+  top:654px;
+  width:59px;
+  height:18px;
+  font-family:'南宋书局体 常规', '南宋书局体';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u54_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:59px;
+  white-space:nowrap;
+}
+#u55_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:571px;
+  height:722px;
+}
+#u55 {
+  border-width:0px;
+  position:absolute;
+  left:194px;
+  top:-2px;
+  width:571px;
+  height:722px;
+}
+#u55_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
